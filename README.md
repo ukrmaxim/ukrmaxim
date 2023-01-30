@@ -1,5 +1,7 @@
 ## Shortly about myself
 
-Hi, my name is Maxim. I am a systems analyst engineer with 20 years of experience in various IT fields in both the private and public sector. I rarely encountered programming in my work. But by a rare coincidence, I had a chance to study Ruby and Ruby on Rails and my choice fell on a course from super cool guys, developers and mentors - [Goodprogrammer](https://goodprogrammer.ru). Having successfully completed their intensive course, I can firmly call myself a RoR developer! The projects, as always, can be found on [GitHUb](https://github.com/ukrmaxim?tab=repositories).
+I am a computer systems professional by education with 22 years of experience in various IT fields, both in the private and public sectors.
+I rarely encountered programming in my work. But thanks to a coincidence, I had the opportunity to learn Ruby and Ruby on Rails.
+Having successfully completed the intensive course, I already have 2 years of experience in developing real web applications on Ruby on Rails (backend and frontend with Bootstrap).
 
-More information abou me in [My CV](https://ukrmaxim.github.io/cv/)
+More information abou me in [My CV](https://ukrmaxim.github.io/cv/index_en.html)
